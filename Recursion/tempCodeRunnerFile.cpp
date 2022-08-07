@@ -1,2 +1,5 @@
-   // cout << no1 << endl;
-    // cout << no2 << endl;
+
+    // for(int i=0;i < n;i++){
+    //     cout << arr[i] << " ";
+    // }
+    // cout << endl;
